@@ -1,0 +1,7 @@
+Ejercicio Nivelatorio:
+Desarrollar una calculadora en Java que pida dos valores por consola y te permita elegir de un menu las siguientes operaciones:
+- Suma
+- Resta
+- Division
+- Multiplicacion
+En el caso de la division, no se puede dividir por 0, el programa debe manejar esta situación en la estructura del codigo pidiendo al usuario que vuelva a ingresar numeros validos si se elige la division. 
