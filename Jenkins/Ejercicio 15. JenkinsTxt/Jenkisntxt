@@ -1,0 +1,29 @@
+pipeline 
+{
+    agent any
+
+    stages 
+    {
+        stage ("Creacion de calculadora")
+        {
+            steps
+            {
+                script
+                {
+                    def Valor1 = 88
+                    def Valor2 = 73
+                    def suma = Valor1+Valor2
+                    def resta = Valor1-Valor2
+                    def multiplicacion = Valor1*Valor2
+                    def division = Valor1/Valor2
+                    echo "El valor 1 es: " + Valor1
+                    echo "El valor 2 es: " + Valor2
+                    echo "El valor de la suma es: " + suma
+                    echo "El valor de la resta es: " + resta
+                    echo "El valor de la multiplicacion es: " + multiplicacion
+                    echo "El valor de la division es: " + division
+                }
+            }
+        }
+    }
+}
