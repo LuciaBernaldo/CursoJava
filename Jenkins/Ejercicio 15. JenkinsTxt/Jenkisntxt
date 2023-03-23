@@ -22,8 +22,10 @@ pipeline
                     echo "El valor de la resta es: " + resta
                     echo "El valor de la multiplicacion es: " + multiplicacion
                     echo "El valor de la division es: " + division
+                    //Ejercicio15
                     def contenido= "Calculadora \n" + "\n Suma: " + suma + "\n Resta: " + resta + "\n Multiplicación: " + multiplicacion + "\n División: " + division
                     writeFile(file:"C:\\Software\\devenv\\workspaces\\CursoJava\\calculatorcJenkinsGit.txt",text:contenido)
+                    //Ejercicio16
                     def data = readFile(file: "C:\\Software\\devenv\\workspaces\\CursoJava\\calculatorcJenkinsGit.txt")
                     println data
                     
