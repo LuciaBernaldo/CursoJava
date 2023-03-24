@@ -1,0 +1,9 @@
+Gustavo 32 1 Activo Affiliate 
+Carlos 24 3 Inactivo Estandar User 
+Adrian 25 2 Inactivo Estandar User 
+Alba 29 1 Activo Affiliate 
+Alvaro 27 3 Inactivo Estandar User 
+Alejandro 26 2 Activo Estandar User 
+Gustavo 32 1 Activo Affiliate 
+Daniel 20 2 Inactivo Estandar User 
+Ivan 25 2 Inactivo Estandar User 

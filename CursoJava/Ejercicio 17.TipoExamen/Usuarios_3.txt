@@ -1,0 +1,4 @@
+Nombre,Pais,FechaDeNacimiento,FechaDeRegistro,UltimaFechaDeLogin,CantidadDeCompras		
+Gustavo,ARGENTINA,04/06/1991,16/09/2022,16/09/2022,10 			   
+Daniel,ESPAÑA,05/05/2003,10/10/2021,10/10/2021,1			  
+Ivan,ESPAÑA,06/06/1998,11/11/2021,12/12/2021,3			   			   			   
