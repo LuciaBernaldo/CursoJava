@@ -1,0 +1,5 @@
+Descripcion: Remera     Precio final: 105.0     Precio final/unidad: 1.05     Promedio Venta/Producto: 50.0     Cantidad Ventas/producto: 100     Ultima compra hace: 8 dias     
+Descripcion: Camisa     Precio final: 157.5     Precio final/unidad: 3.15     Promedio Venta/Producto: 25.0     Cantidad Ventas/producto: 50     Ultima compra hace: 27 dias     
+Descripcion: Vestido     Precio final: 105.0     Precio final/unidad: 5.25     Promedio Venta/Producto: 10.0     Cantidad Ventas/producto: 20     Ultima compra hace: 27 dias     
+Descripcion: Pantalon     Precio final: 42.0     Precio final/unidad: 4.2     Promedio Venta/Producto: 5.0     Cantidad Ventas/producto: 10     Ultima compra hace: 27 dias     
+Descripcion: Sweater     Precio final: 15.75     Precio final/unidad: 3.15     Promedio Venta/Producto: 2.5     Cantidad Ventas/producto: 5     Ultima compra hace: 3 dias     
