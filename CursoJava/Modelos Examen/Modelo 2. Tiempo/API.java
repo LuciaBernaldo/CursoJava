@@ -100,7 +100,8 @@ public class API {
 		try {
 			String infoAPIS = new String();
 			for (String apitxt : listaRecomendacion) {
-				infoAPIS = infoAPIS + listaRecomendacion;
+				infoAPIS = infoAPIS + ("\n") + apitxt;
+				//infoAPIS = infoAPIS + listaRecomendacion;
 			}
 			String ruta = "C:\\Software\\devenv\\workspaces\\CursoJava\\Modelo Examen 2\\recomendacion_diaria.txt";
 			File archivo = new File (ruta);
