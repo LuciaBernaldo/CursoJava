@@ -1,0 +1,18 @@
+Aerolinia: Iberia   Nombre: BUENOS_AIRES   Pasajeros: 10   Pasaje: ECONOMICO   Valor_Pasaje: 100   Fecha_Vuelo: 01/01/2023   Valor_Total_Vuelo: 1000   Dias_Para_Vuelo: 28   Segmentacion: Es rentable viajar   
+
+Aerolinia: Iberia   Nombre: BUENOS_AIRES   Pasajeros: 20   Pasaje: PREMIER   Valor_Pasaje: 250   Fecha_Vuelo: 01/01/2023   Valor_Total_Vuelo: 5000   Dias_Para_Vuelo: 28   Segmentacion: Es rentable viajar   
+
+Aerolinia: Iberia   Nombre: BARCELONA   Pasajeros: 10   Pasaje: ECONOMICO   Valor_Pasaje: 25   Fecha_Vuelo: 02/02/2022   Valor_Total_Vuelo: 250   Dias_Para_Vuelo: 27   Segmentacion: Es rentable viajar   
+
+Aerolinia: Iberia   Nombre: BARCELONA   Pasajeros: 10   Pasaje: PREMIER   Valor_Pasaje: 50   Fecha_Vuelo: 02/02/2022   Valor_Total_Vuelo: 500   Dias_Para_Vuelo: 27   Segmentacion: No es rentable viajar   
+
+Aerolinia: Iberia   Nombre: NEW_YORK   Pasajeros: 25   Pasaje: ECONOMICO   Valor_Pasaje: 300   Fecha_Vuelo: 01/01/2022   Valor_Total_Vuelo: 7500   Dias_Para_Vuelo: 28   Segmentacion: Es rentable viajar   
+
+Aerolinia: Iberia   Nombre: NEW_YORK   Pasajeros: 25   Pasaje: PREMIER   Valor_Pasaje: 600   Fecha_Vuelo: 01/01/2022   Valor_Total_Vuelo: 15000   Dias_Para_Vuelo: 28   Segmentacion: Es rentable viajar   
+
+Aerolinia: Iberia   Nombre: TOKYO   Pasajeros: 10   Pasaje: ECONOMICO   Valor_Pasaje: 1500   Fecha_Vuelo: 01/01/2023   Valor_Total_Vuelo: 15000   Dias_Para_Vuelo: 28   Segmentacion: Es rentable viajar   
+
+Aerolinia: Iberia   Nombre: TOKYO   Pasajeros: 10   Pasaje: PREMIER   Valor_Pasaje: 2000   Fecha_Vuelo: 01/01/2023   Valor_Total_Vuelo: 20000   Dias_Para_Vuelo: 28   Segmentacion: Es rentable viajar   
+
+
+El monto total es: 64250
